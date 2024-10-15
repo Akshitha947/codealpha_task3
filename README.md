@@ -1,1 +1,1 @@
-# codealpha_task3
+Sudoku Solver:This C++ code implements a solution for the Sudoku puzzle using a backtracking algorithm. The program defines a 9x9 grid, checks the validity of numbers in each cell, and attempts to fill the grid with valid Sudoku numbers.
